@@ -1,2 +1,2 @@
 # PW_Assingments
-Here are the assignments of C++ and DSA course.
+Here is the first assignment of C++ and DSA course.
